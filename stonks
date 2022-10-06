@@ -1,0 +1,30 @@
+<!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/markets/stocks-usa/" rel="noopener" target="_blank"><span class="blue-text">Stock Market Today</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-hotlists.js" async>
+  {
+  "colorTheme": "dark",
+  "dateRange": "1D",
+  "exchange": "NASDAQ",
+  "showChart": true,
+  "locale": "en",
+  "largeChartUrl": "",
+  "isTransparent": true,
+  "showSymbolLogo": true,
+  "showFloatingTooltip": false,
+  "width": "400",
+  "height": "600",
+  "plotLineColorGrowing": "rgba(0, 255, 0, 1)",
+  "plotLineColorFalling": "rgba(255, 0, 0, 1)",
+  "gridLineColor": "rgba(240, 243, 250, 0)",
+  "scaleFontColor": "rgba(106, 109, 120, 1)",
+  "belowLineFillColorGrowing": "rgba(66, 66, 66, 0.12)",
+  "belowLineFillColorFalling": "rgba(66, 66, 66, 0.12)",
+  "belowLineFillColorGrowingBottom": "rgba(182, 215, 168, 0)",
+  "belowLineFillColorFallingBottom": "rgba(234, 153, 153, 0)",
+  "symbolActiveColor": "rgba(66, 66, 66, 0.12)"
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
